@@ -1,4 +1,4 @@
-![discord presence](https://lanyard.cnrad.dev/api/891003514317324358?showDisplayName=true&idleMessage=Aww%20bbg,%20come%20here%20cuz%20I%27m%20not%20doing%20anything%20right%20now)
+![discord presence](https://lanyard.cnrad.dev/api/891003514317324358?showDisplayName=true&idleMessage=currently%20working%20on%20something%20)
 
 <!--
 **Anestxx/Anestxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
