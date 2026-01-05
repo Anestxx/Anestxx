@@ -32,4 +32,4 @@ Hi! I'm Diksha — a **Computer Science student** passionate about creating **in
 
 
 ## 📫 Connect With Me 
-- Email: diksha@example.com  
+- Email: dikshachy1402@gmail.com  
