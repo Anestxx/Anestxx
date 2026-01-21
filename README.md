@@ -49,14 +49,15 @@ Currently exploring JavaScript more deeply while improving my overall developmen
 </div>
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anestxx/anestxx/output/github-contribution-grid-snake.gif"
+</p>
+
+---
 ## 📫 Connect With Me 
 - Email: dikshachy1402@gmail.com
 - linkedin: <a href="https://www.linkedin.com/in/dikshachaudhary/" target="_blank">
 linkedin.com/in/dikshachaudhary/
 </a>
 
----
-<p align="center">
-  <img src="https://raw.githubusercontent.com/anestxx/anestxx/output/github-contribution-grid-snake.gif" />
-</p>
 
