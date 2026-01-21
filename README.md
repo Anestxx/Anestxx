@@ -57,6 +57,6 @@ linkedin.com/in/dikshachaudhary/
 
 ---
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anestxx/github-anim/output/dist/github-contribution-grid-snake.gif" />
+  <img src="https://raw.githubusercontent.com/anestxx/anestxx/output/github-contribution-grid-snake.gif" />
 </p>
 
