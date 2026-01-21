@@ -1,22 +1,22 @@
-name: Generate Snake Animation
+name: Generate Snake
 
 on:
-  workflow_dispatch:
+  workflow_dispatch:  # Allows manual run
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake with default colors
+      - name: Generate snake GIF
         uses: Platane/snk@v3
         with:
           github_user_name: anestxx
-          outputs: |
-            snake.gif
+          outputs: snake.gif?color_snake=orange&animate=true
           
-      - name: Deploy
+      - name: Upload to output branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: .
           publish_branch: output
+          keep_files: false
