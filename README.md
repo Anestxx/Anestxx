@@ -8,7 +8,7 @@
 
 ---
 ## Code Stats
-![diksha's github activity graph]((https://github-readme-activity-graph.vercel.app/graph?username=anestxx&bg_color=f4b4c4&color=ffffff&line=6fa8ff&point=f97583&area=true&hide_border=true))
+![diksha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anestxx&bg_color=f4b4c4&color=ffffff&line=6fa8ff&point=f97583&area=true&hide_border=true)
 
 --
 
@@ -27,7 +27,7 @@ Currently exploring JavaScript more deeply while improving my overall developmen
 
 ---
 ## Visitor count
-![Visitor Count]((https://count.getloli.com/@:anestxx?theme=booru-qualityhentais))
+![Visitor Count](https://count.getloli.com/@:anestxx?theme=booru-qualityhentais)
 
 --
 
