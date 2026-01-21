@@ -21,7 +21,7 @@ Currently exploring JavaScript more deeply while improving my overall developmen
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/currently_learning-JavaScript-f3d1ff" />
+  <img src="https://img.shields.io/badge/might_be_learning-JavaScript-f3d1ff" />
   <img src="https://img.shields.io/badge/mood-curious%20and%20creative-b6f2ff" />
 </p>
 
