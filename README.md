@@ -10,7 +10,7 @@
 ## Code Stats
 ![diksha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anestxx&bg_color=f4b4c4&color=ffffff&line=6fa8ff&point=f97583&area=true&hide_border=true)
 
---
+---
 
 <h3 align="center">About Me</h3>
 
@@ -31,7 +31,7 @@ Currently exploring JavaScript more deeply while improving my overall developmen
   <img src="https://count.getloli.com/@:anestxx?theme=booru-qualityhentais" />
 </p>
 
---
+---
 
 <h3 align="center">Languages & Tech Stack</h3>
 
