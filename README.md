@@ -27,7 +27,9 @@ Currently exploring JavaScript more deeply while improving my overall developmen
 
 ---
 ## Visitor count
-![Visitor Count](https://count.getloli.com/@:anestxx?theme=booru-qualityhentais)
+<p align="center">
+  <img src="https://count.getloli.com/@:anestxx?theme=booru-qualityhentais" />
+</p>
 
 --
 
