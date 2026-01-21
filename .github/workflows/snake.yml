@@ -1,22 +1,33 @@
-name: Generate Snake
+name: Generate Snake Animation
 
 on:
-  workflow_dispatch:  # Allows manual run
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - name: Generate snake GIF
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        
+      - name: Generate pastel pink snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: anestxx
-          outputs: snake.gif?color_snake=orange&animate=true
+          outputs: |
+            github-contribution-grid-snake.svg
+            github-contribution-grid-snake.gif?color_snake=#ffb6c1&color_dots=#ffccd5,#ffb7c5,#ff9ebb,#ff85a1,#ff6b8b&color_background=#fff0f5&animate=true
           
-      - name: Upload to output branch
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Deploy to output branch
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: .
-          publish_branch: output
-          keep_files: false
+          folder: .
+          branch: output
+          clean: true
