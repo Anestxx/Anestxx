@@ -17,13 +17,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
         
-      - name: Generate pink-blue snake animation
+      - name: Generate pastel pink snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: anestxx
           outputs: |
             github-contribution-grid-snake.svg
-            github-contribution-grid-snake.gif?color_snake=ff6b8b&color_dots=6fa8ff,8fb6ff,a6c8ff,c9dcff,e3f2ff&color_background=fdf2f8&animate=true
+            github-contribution-grid-snake.gif?color_snake=#ffb6c1&color_dots=#ffccd5,#ffb7c5,#ff9ebb,#ff85a1,#ff6b8b&color_background=#fff0f5&animate=true
           
       - name: Deploy to output branch
         uses: JamesIves/github-pages-deploy-action@v4
