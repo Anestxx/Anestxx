@@ -50,7 +50,7 @@ Currently exploring JavaScript more deeply while improving my overall developmen
 
 ---
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anestxx/anestxx/output/github-contribution-grid-snake.gif"
+  <img src="https://raw.githubusercontent.com/anestxx/anestxx/output/github-contribution-grid-snake.gif" />
 </p>
 
 ---
